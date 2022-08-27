@@ -11,6 +11,6 @@ public class GitTest {
         System.out.println("version 2");
         System.out.println("version 3");
         System.out.println("version 4");
-        System.out.println("master test");
+        System.out.println("master test!");
     }
 }
